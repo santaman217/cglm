@@ -8,6 +8,9 @@
 #ifndef cglm_h
 #define cglm_h
 
+
+#define CGLM_FORCE_LEFT_HANDED
+
 #include "common.h"
 #include "vec2.h"
 #include "vec3.h"

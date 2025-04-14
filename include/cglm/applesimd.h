@@ -7,6 +7,7 @@
 
 #ifndef cglm_applesimd_h
 #define cglm_applesimd_h
+#include <simd/simd.h>
 #if defined(__APPLE__)                                                        \
     && defined(SIMD_COMPILER_HAS_REQUIRED_FEATURES)                           \
     && defined(SIMD_BASE)                                                     \

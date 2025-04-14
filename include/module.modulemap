@@ -1,6 +1,7 @@
 module cglm {
     header "cglm/cglm.h"
     header "cglm/struct.h"
+    header "cglm/applesimd.h"
     
     export *
 }
