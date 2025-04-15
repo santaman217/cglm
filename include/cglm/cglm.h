@@ -8,7 +8,7 @@
 #ifndef cglm_h
 #define cglm_h
 
-
+#define CGLM_FORCE_DEPTH_ZERO_TO_ONE
 #define CGLM_FORCE_LEFT_HANDED
 
 #include "common.h"
